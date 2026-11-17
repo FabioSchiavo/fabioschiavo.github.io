@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.68ec8f12.css",
-    "main.js": "/static/js/main.1d851c7d.js",
+    "main.css": "/static/css/main.7c28a620.css",
+    "main.js": "/static/js/main.d32c9c9b.js",
     "static/media/bluepattern.svg": "/static/media/bluepattern.4729ccbeeae8f3a898830fb29baf4b7b.svg",
+    "static/media/pca-orthogonal-projection-rag-3.svg": "/static/media/pca-orthogonal-projection-rag-3.5fa50fefbec28e23e916fae8b38c94b0.svg",
     "static/media/IBMPlexSerif-SemiBoldItalic-Cyrillic.woff": "/static/media/IBMPlexSerif-SemiBoldItalic-Cyrillic.d96e5a614e96c351c453.woff",
     "static/media/IBMPlexSerif-SemiBoldItalic-Latin1.woff": "/static/media/IBMPlexSerif-SemiBoldItalic-Latin1.b691d8c0c5110ea3659e.woff",
     "static/media/IBMPlexSerif-Italic-Cyrillic.woff": "/static/media/IBMPlexSerif-Italic-Cyrillic.452cc78a1baf50168631.woff",
@@ -187,7 +188,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.68ec8f12.css",
-    "static/js/main.1d851c7d.js"
+    "static/css/main.7c28a620.css",
+    "static/js/main.d32c9c9b.js"
   ]
 }
